@@ -1,0 +1,336 @@
+**CONCEPTO:** Existentialism
+**AUTOR:** (Various – Primarily Sartre, Camus, Kierkegaard, Nietzsche, Heidegger)
+**DEFINICION:** Focuses on the individual's subjective experience of existence, emphasizing freedom, responsibility, and the confrontation with anxiety and the absurdity of life.
+**RELACION CON GEN Z:** This resonates with Gen Z's questioning of traditional values, focus on individual identity, and heightened awareness of mental health challenges. The emphasis on authenticity and confronting the void aligns with Gen Z’s tendency to seek meaning in a world often perceived as lacking inherent purpose, amplified by social media’s curated realities.
+
+---
+
+**CONCEPTO:** Fin de los Metarrelatos (End of Meta-Narratives)
+**AUTOR:** Lyotard
+**DEFINICION:**  Challenges overarching, universal narratives (like Marxism, religion, or the Enlightenment’s faith in progress) as sources of truth and justification, arguing for a fragmented and localized understanding of the world.
+**RELACION CON GEN Z:** Gen Z is highly skeptical of grand narratives and institutional authority.  Their digital world is built on niche communities, personalized content, and a rejection of simplistic solutions, reflecting Lyotard’s call for embracing local, contingent truths.
+
+---
+
+**CONCEPTO:** Identidad Líquida (Liquid Identity)
+**AUTOR:** Bauman
+**DEFINICION:** Describes the fluidity and instability of identity in late modernity, driven by rapid social and technological change, leading to a sense of rootlessness and a constant negotiation of self.
+**RELACION CON GEN Z:**  Gen Z’s experience of constantly adapting to new trends, online personas, and evolving social norms perfectly aligns with Bauman's concept. The pressure to craft a cohesive online identity amidst fragmented information and short-lived trends emphasizes the ephemeral nature of identity.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento (Culture of Performance)
+**AUTOR:** Byung-Chul Han
+**DEFINICION:** Critiques the contemporary obsession with optimization, productivity, and self-improvement, leading to a constant state of anxiety and self-exploitation.
+**RELACION CON GEN Z:** Gen Z is particularly susceptible to this cultural pressure, fueled by social media’s emphasis on achievement, self-optimization, and the relentless pursuit of a “perfect” life. The constant need to project an image of success can contribute to burnout and a sense of inadequacy.
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder (Surveillance & Biopower)
+**AUTOR:** Foucault
+**DEFINICION:** Examines how power operates not just through repression but also through the management and control of populations – their bodies, behaviors, and even thoughts.
+**RELACION CON GEN Z:** Gen Z’s relationship with social media and data collection raises profound questions about surveillance and the impact of algorithms on their behavior, identity, and autonomy. The constant tracking and analysis of their online activity fit Foucault’s framework of biopower.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnicificación del Ser (Unveiling and Technologicalization of Being)
+**AUTOR:** Heidegger
+**DEFINICION:**  Suggests that technology has obscured our fundamental relationship with Being, reducing human experience to a technical problem and alienating us from our own existence.
+**RELACION CON GEN Z:** Gen Z’s reliance on smartphones, apps, and algorithms for nearly every aspect of their lives reflects this technological “unveiling,” potentially limiting their capacity for authentic experience and a deeper understanding of their own existence.
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público (Erosion of Public Space)
+**AUTOR:** Habermas
+**DEFINICION:**  Describes the decline of public spaces and the weakening of deliberative democracy, replaced by fragmented, individualized spheres of communication.
+**RELACION CON GEN Z:**  Gen Z’s primary social interaction often occurs online, within specific communities and echo chambers. This limits their experience of genuine public discourse and can contribute to the polarization of opinions.
+
+---
+
+**CONCEPTO:** Existentialism
+**AUTOR:** Jean-Paul Sartre, Albert Camus
+**DEFINICION:** The inherent lack of pre-determined meaning in existence, demanding individual responsibility and the creation of personal values.
+**RELACION CON GEN Z:** Gen Z’s experience of digital overload and algorithmic curation mirrors the existentialist concern with the "void." The constant stream of curated content on social media can amplify feelings of meaninglessness and pressure to perform a self-defined identity, aligning with Sartre’s idea of radical freedom and the burden of choice. The pressure to "find your passion" online can be seen as a modern manifestation of existential anxiety. 
+
+---
+
+**CONCEPTO:** Posmodernidad
+**AUTOR:** Jean-Lyotard
+**DEFINICION:** The rejection of grand narratives (metarrelatos) – overarching explanations of the world – emphasizing local perspectives and the fragmentation of knowledge.
+**RELACION CON GEN Z:** Gen Z’s distrust of institutions and established authority aligns with Lyotard’s critique. They reject overarching ideologies (like capitalism or nationalism) in favor of decentralized information consumption and niche communities on platforms like TikTok and Discord, reflecting a postmodern deconstruction of universal truths.
+
+---
+
+**CONCEPTO:** Identidad Líquida
+**AUTOR:** Zygmunt Bauman
+**DEFINICION:** The instability and fluidity of identity in late modernity, characterized by constant change and a lack of fixed social structures.
+**RELACION CON GEN Z:** Gen Z’s intense experimentation with online identities – shifting personas across platforms, embracing fluid self-expression – directly reflects Bauman’s concept of “liquid” identity. The pressure to construct and curate a specific online self contributes to a sense of anxiety about authenticity and permanence.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento
+**AUTOR:** Byung-Chul Han
+**DEFINICION:** An overemphasis on performance and achievement, driven by the demands of neoliberalism, leading to burnout and the suppression of genuine experience.
+**RELACION CON GEN Z:** Gen Z is acutely aware of the pressure to constantly "optimize" themselves – through productivity hacks, self-improvement trends, and relentless self-promotion – reflecting Han’s critique of a culture obsessed with quantifiable success and a diminished capacity for boredom and reflection.
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder
+**AUTOR:** Michel Foucault
+**DEFINICION:** The exercise of power through surveillance and the manipulation of biological life, shifting from direct control to a more subtle form of influence.
+**RELACION CON GEN Z:** Gen Z's digital lives are inherently shaped by surveillance – algorithms tracking behavior, data mining of personal information, and the pressure to conform to platform standards. This echoes Foucault's argument about the pervasive nature of power in modern society.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnofanía
+**AUTOR:** Heidegger
+**DEFINICION:**  The revelation of Being through technology, leading to an experience of fundamental disorientation and the loss of traditional ways of understanding the world.
+**RELACION CON GEN Z:** Gen Z’s immersion in digital technology—from smartphones to the metaverse—mirrors Heidegger’s concern about the “enframing” (Gestell) of Being by technology, potentially obscuring deeper ontological questions and fostering a superficial engagement with reality. 
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público
+**AUTOR:** Jürgen Habermas
+**DEFINICION:** The decline of traditional public spaces and the shift of communication to fragmented, individualized online environments.
+**RELACION CON GEN Z:** Gen Z’s primary social interactions often occur within online communities and social media platforms, reflecting Habermas’s concern about the weakening of the public sphere and the potential for alienation.
+
+---
+
+**CONCEPTO:** Existentialism (Sartre, Camus)
+**AUTOR:** Jürgen Habermas (Implicitly references Sartre and Camus)
+**DEFINICION:**  Habermas’s emphasis on communication and mutual understanding reflects an existentialist concern with individual agency, vulnerability, and the human need to find meaning through social interaction, mirroring themes explored by existentialist thinkers like Sartre and Camus.
+**RELACION CON GEN Z:** Gen Z’s experience of online communication (social media, instant messaging) can be viewed through an existential lens. The constant need to construct and perform identity online, coupled with the often superficial nature of these interactions, aligns with the existentialist idea of a “condemned to be free,” constantly grappling with self-definition in a world without inherent meaning. The pressure to curate an online persona can intensify feelings of anxiety and isolation, reflecting the existential themes of alienation and the burden of responsibility.
+
+---
+
+**CONCEPTO:** Fin de los Metarrelatos (Lyotard)
+**AUTOR:** Jürgen Habermas
+**DEFINICION:** Habermas’s critique of the decline of the “public sphere” mirrors Lyotard’s assertion that the grand narratives (metarrelatos) of modernity – such as Marxism, Enlightenment rationalism – have lost their credibility, leaving a fragmented and uncertain landscape of knowledge and truth.
+**RELACION CON GEN Z:** Gen Z’s distrust of institutions (government, corporations, media) stems from a lack of faith in these traditional “metarrelatos.”  The abundance of information and the prevalence of alternative narratives online—often circulating outside established authority—reflects the postmodern condition of a world without overarching, unifying stories.
+
+---
+
+**CONCEPTO:** Identidad Líquida (Bauman)
+**AUTOR:** Jürgen Habermas (Acknowledges the shift in social structures)
+**DEFINICION:** Habermas recognizes the fluidity and instability of social bonds and identities, similar to Bauman’s concept of “liquid modernity,” where individuals are increasingly detached and transient, lacking deep-rooted social affiliations.
+**RELACION CON GEN Z:** Gen Z’s frequent moves, diverse social circles, and reliance on digital connections for social interaction are consistent with Bauman's idea of “liquid” identities. The lack of stable, long-term relationships and commitments mirrors the instability and impermanence of connections in a digital age.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento (Byung-Chul Han)
+**AUTOR:** Jürgen Habermas (Indirectly addresses the pressure for optimization)
+**DEFINICION:** Habermas’s concern with the "public sphere" and the erosion of traditional forms of social interaction can be seen as a response to the pressures of self-optimization and performance that Byung-Chul Han describes, characterized by the constant demand to “perform” and achieve.
+**RELACION CON GEN Z:** Gen Z’s intense focus on self-improvement, productivity, and the pursuit of “perfect” lives, often amplified through social media, reflects the “culture of performance” outlined by Byung-Chul Han. The constant need to present a successful and engaging self online contributes to feelings of anxiety and inadequacy.
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder (Foucault)
+**AUTOR:** Jürgen Habermas (Raises questions about the expansion of power)
+**DEFINICION:** Habermas's concerns about the public sphere and the potential for power to permeate all aspects of social life aligns with Foucault’s concept of “biopower,” where power operates not just through repression but through the management of populations (e.g., through surveillance, data collection, and social engineering).
+**RELACION CON GEN Z:** Gen Z’s data footprint—the vast amount of personal information generated through social media use—represents a contemporary manifestation of Foucault’s “biopower.” The constant monitoring and analysis of online behavior raises questions about individual autonomy and the potential for manipulation.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnificación del Ser (Heidegger)
+**AUTOR:** Jürgen Habermas (Acknowledges the technological shaping of experience)
+**DEFINICION:** Habermas recognizes the impact of technology on human experience, echoing Heidegger’s notion of “enframing” – the way technology shapes our perception of the world and reduces it to quantifiable data.
+**RELACION CON GEN Z:** Gen Z’s immersion in technology—particularly smartphones and social media—contributes to a world increasingly defined by algorithms and data, aligning with Heidegger’s concern about technology’s influence on human existence.
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público (Habermas)
+**AUTOR:** Jürgen Habermas
+**DEFINICION:** Habermas's work directly addresses the decline of the traditional public sphere – the space for open debate and reasoned discussion – impacted by mass media, consumer culture, and the privatization of social life.
+**RELACION CON GEN Z:** Gen Z's online engagement, while potentially fostering dialogue, is often characterized by echo chambers and polarized debates, diminishing the capacity for genuine, open-minded discussion. The fragmentation of the public sphere online reflects the erosion Habermas describes.
+
+---
+
+**CONCEPTO:** Existential Void / “Nothingness”
+**AUTOR:** Martin Heidegger
+**DEFINICION:** Heidegger’s central idea is that human existence (Dasein) is fundamentally characterized by a lack of inherent meaning, a “nothingness” or “void” that we must confront and engage with. 
+**RELACION CON GEN Z:** This concept resonates with Gen Z’s anxieties surrounding purpose and meaning in a hyper-connected, rapidly changing world. The feeling of being overwhelmed by choices and a lack of a clear, externally-defined purpose aligns with Heidegger's notion of confronting the void. Social media, with its curated realities and emphasis on self-promotion, can exacerbate this feeling.
+
+---
+
+**CONCEPTO:** Fin de los Metarrelatos
+**AUTOR:** Jean-François Lyotard
+**DEFINICION:** Lyotard argues that postmodernity is characterized by the collapse of grand narratives (metarrelatos) – overarching stories that provided meaning and legitimacy to societies – leaving us with a fragmented, localized understanding of truth.
+**RELACION CON GEN Z:** Gen Z’s skepticism towards traditional institutions (government, religion, education) and their embrace of diverse perspectives and experiences mirror Lyotard's idea of rejecting overarching narratives. The rise of “micro-narratives” on social media – individual stories and experiences – supports this connection.
+
+---
+
+**CONCEPTO:** Identidad Líquida
+**AUTOR:** Zygmunt Bauman
+**DEFINICION:** Bauman describes “liquid” identities as being fluid, unstable, and constantly changing, shaped by social interactions and consumption in a globalized, postmodern world.
+**RELACION CON GEN Z:** Gen Z’s fluid identities, experimentation with online personas, and constant shifting of interests align with Bauman’s concept. The pressure to constantly reinvent oneself for social media validation further emphasizes the instability of identity in this context.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento
+**AUTOR:** Byung-Chul Han
+**DEFINICION:** Han argues that contemporary society is dominated by a culture of “performance,” where individuals are constantly pressured to optimize themselves, achieve, and produce, leading to burnout and a sense of inadequacy.
+**RELACION CON GEN Z:** Gen Z’s intense pressure to succeed academically, build a strong online brand, and constantly achieve “peak performance” within their interests reflects Han’s concern about the relentless demands of a hyper-competitive, performative culture. The focus on metrics (likes, followers, grades) reinforces this dynamic.
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder
+**AUTOR:** Michel Foucault
+**DEFINICION:** Foucault’s concept examines how power operates not just through repression, but through the management and control of populations – "biopower" – through surveillance, data collection, and shaping behaviors.
+**RELACION CON GEN Z:** Gen Z’s data footprint, constant surveillance by social media platforms, and the potential for algorithms to influence their behavior (through targeted advertising and personalized content) exemplify the workings of biopower, reflecting concerns about privacy and control.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnificación del Ser
+**AUTOR:** Martin Heidegger
+**DEFINICION:** Heidegger argues that technology doesn’t merely serve human purposes; it actively shapes our understanding of being, revealing it in a specific, often alienating, way. 
+**RELACION CON GEN Z:** Gen Z’s reliance on technology (smartphones, social media) for communication, information, and entertainment demonstrates this “technification” of their existence, potentially altering their perceptions of reality and their relationship to the world.
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público
+**AUTOR:** Jürgen Habermas
+**DEFINICION:** Habermas analyzes the decline of traditional public spaces and the shift toward private, fragmented spheres of communication and interaction, undermining the conditions for rational debate and democratic deliberation.
+**RELACION CON GEN Z:** Gen Z’s engagement with social media, often characterized by echo chambers and highly polarized discussions, reflects a breakdown of shared public spaces and the difficulty of engaging in constructive dialogue across diverse viewpoints.
+
+---
+
+**CONCEPTO:** Empty Existentialism
+**AUTOR:** Sartre (implied - referenced through the general concept)
+**DEFINICION:** The text suggests Foucault's work engages with a core existentialist notion of an initial lack of inherent meaning or purpose, prompting individuals to create their own essence through action.
+
+---
+
+**CONCEPTO:** Fin de los Metarrelatos
+**AUTOR:** Lyotard (implied - referenced through the general concept)
+**DEFINICION:** Foucault challenges traditional overarching narratives (metarrelatos) – such as grand historical explanations or totalizing ideologies – arguing for a focus on specific, localized discourses and their historical construction.
+
+---
+
+**CONCEPTO:** Identidad Líquida
+**AUTOR:** Bauman (implied - referenced through the general concept)
+**DEFINICION:** While not directly stated, the text's emphasis on shifting discourses, the fluidity of power relations, and the rise of new movements like the “Prisons Information Group” aligns with Bauman’s concept of “liquid modernity,” where identities are constantly negotiated and unstable.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento
+**AUTOR:** Byung-Chul Han (implied - referenced through the general concept)
+**DEFINICION:**  The text’s focus on the pressures of “experimental university” created to answer the events of 1968 aligns with Han's critique of hyper-performance and the relentless demands for optimization and productivity within contemporary society.
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder
+**AUTOR:** Foucault (explicitly mentioned)
+**DEFINICION:** Foucault’s analysis of power as operating through surveillance, control, and the manipulation of life itself (“biopower”)—specifically through the collection and analysis of data—is a central theme of the text.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnicificación del Ser
+**AUTOR:** Heidegger (implied - referenced through the general concept)
+**DEFINICION:** The text’s discussion of “experimental university” and the increased role of scientific research suggests an increased emphasis on technical or instrumentalization of the human being, a concept linked to Heidegger's critique of technology and its effects on existence.
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público
+**AUTOR:** Habermas (implied - referenced through the general concept)
+**DEFINICION:** The text’s depiction of the creation of the “experimental university” as a reaction to the student uprisings of 1968 suggests a decline in traditional public spaces and the loss of shared meaning, which aligns with Habermas's concerns about the privatization of public life.
+
+---
+
+**CONCEPTO:** Existential Void / Absurdity
+**AUTOR:** Sartre
+**DEFINICION:**  Sartre's philosophy centers on the idea that existence precedes essence – humans are born without a pre-determined purpose, leaving them to create their own meaning in a fundamentally meaningless universe.
+**RELACION CON GEN Z:** Gen Z's experience of constant digital stimulation and the pursuit of fleeting trends can exacerbate this feeling of meaninglessness, leading to a search for identity and validation through social media, often without a core, deeply-held belief system. The pressure to “create” one’s own meaning in the face of algorithmic content is directly linked to this existential void.
+
+---
+
+**CONCEPTO:** The End of Metanarratives
+**AUTOR:** Lyotard
+**DEFINICION:** Lyotard argues that postmodernism rejects grand, overarching narratives (metanarratives) like Marxism or Christianity, which claim to explain all of human history and experience.
+**RELACION CON GEN Z:** Gen Z's distrust of institutions and traditional authority aligns with Lyotard’s critique.  The proliferation of micro-narratives and specialized knowledge online reflects a rejection of overarching stories, and their reliance on algorithms and personalized content further fragments their understanding of the world.
+
+---
+
+**CONCEPTO:** Liquid Identity
+**AUTOR:** Bauman
+**DEFINICION:** Bauman describes “liquid” identity as the fluidity and instability of self in late modernity, shaped by rapid social change, globalization, and the ease with which people can adopt and discard identities online.
+**RELACION CON GEN Z:** Gen Z's constant experimentation with online personas, shifting interests, and rapid adoption of trends reflects Bauman’s concept. The pressure to constantly reinvent oneself online is a key characteristic of their experience.
+
+---
+
+**CONCEPTO:** Culture of Performance
+**AUTOR:** Byung-Chul Han
+**DEFINICION:** Han argues that contemporary society is dominated by a "culture of performance," where individuals are encouraged to constantly optimize and project a perfect image of themselves, leading to anxiety and a sense of inauthenticity.
+**RELACION CON GEN Z:** Gen Z's obsessive engagement with social media and the pressure to curate a flawless online presence directly relates to Han's concept. The performative nature of social media feeds amplifies this anxiety and can lead to a distorted sense of self.
+
+---
+
+**CONCEPTO:** Biopower & Surveillance
+**AUTOR:** Foucault
+**DEFINICION:** Foucault posits that power isn’t just repressive; it’s productive—it shapes and governs populations through techniques of “biopower,” focusing on managing life itself (health, reproduction, etc.), and increasingly through surveillance technologies.
+**RELACION CON GEN Z:**  The constant data collection by social media platforms and the use of algorithms to target individuals with personalized content directly relate to Foucault’s concepts. Gen Z's awareness of being monitored and manipulated by algorithms fuels anxieties about privacy and control.
+
+---
+
+**CONCEPTO:** De-habilitaion / Technification of Being
+**AUTOR:** Heidegger
+**DEFINICION:** Heidegger critiques modernity's emphasis on technological rationality and its reduction of human beings to mere “standing-reserve” – beings manipulated and controlled by technology. 
+**RELACION CON GEN Z:** Gen Z’s immersion in technology, particularly smartphones and immersive digital environments, can contribute to a sense of being “technified,” reduced to data points and subject to algorithmic influence, echoing Heidegger’s concerns.
+
+---
+
+**CONCEPTO:** Erosion of the Public Sphere
+**AUTOR:** Habermas
+**DEFINICION:** Habermas argues that the rise of mass media and the privatization of life have eroded the public sphere – the space for rational debate and collective action – creating fragmented and polarized societies.
+**RELACION CON GEN Z:** Gen Z’s online social spaces, while potentially fostering connection, can also contribute to the fragmentation of the public sphere, with echo chambers and filter bubbles reinforcing pre-existing beliefs and limiting exposure to diverse perspectives.
+
+---
+
+**CONCEPTO:** Liquid Modernity
+**AUTOR:** Zygmunt Bauman
+**DEFINICION:** The shift from stable, institutionally-defined modern societies (solid modernity) to transient, fluid networks and short-term arrangements, characterized by a lack of stable frameworks and increasing uncertainty.
+**RELACION CON GEN Z:** Gen Z navigates a world shaped by this fluidity through social media, where performative identity and constant self-reinvention are normalized. The emphasis on “being seen” and chasing trends aligns with Bauman’s concept of a “hunter’s utopia”—a perpetual pursuit of validation within a constantly shifting symbolic marketplace. The constant need for validation through likes and followers reflects the pressure to maintain visibility and relevance within this liquid landscape.
+
+---
+
+**CONCEPTO:** Fin de los Metarrelatos
+**AUTOR:** Zygmunt Bauman
+**DEFINICION:** The decline of overarching, universal narratives—such as religion, Marxism, or grand historical narratives—that once provided meaning and stability to societies.
+**RELACION CON GEN Z:** Gen Z is growing up in a world without these unifying narratives, leading to a sense of meaninglessness and a search for individual authenticity. This resonates with the fragmentation Bauman describes, as Gen Z individuals grapple with the absence of shared belief systems and construct their own identities in a decentralized way, often fueled by online communities and influencers.
+
+---
+
+**CONCEPTO:** Identidad Líquida
+**AUTOR:** Zygmunt Bauman
+**DEFINICION:** The concept of identity as unstable and constantly changing, shaped by fleeting trends, social media influences, and the pressure to perform a shifting self.
+**RELACION CON GEN Z:** Gen Z’s experience with social media directly embodies this concept. The rapid cycling of trends, the curated online personas, and the pressure to constantly adapt to new digital fads—all contribute to the feeling of a fluid and unstable identity. The pressure to present an “authentic” self online while simultaneously adhering to trends creates an inherent tension.
+
+---
+
+**CONCEPTO:** Cultura del Rendimiento
+**AUTOR:** Byung-Chul Han (mentioned in context of Bauman’s work)
+**DEFINICION:** The imposition of a self-optimizing, hyper-productive culture driven by the pressures of late capitalism, leading to burnout and a sense of emptiness.
+**RELACION CON GEN Z:** Gen Z is particularly vulnerable to this concept due to the constant pressures of social media, competition, and the demands of the digital economy. The pressure to “optimize” every aspect of their lives – from productivity to personal relationships – contributes to anxiety, stress, and a sense of never being “good enough.”
+
+---
+
+**CONCEPTO:** Vigilancia y Biopoder
+**AUTOR:** Michel Foucault (referenced as an influence in Bauman's work)
+**DEFINICION:** The exercise of power through surveillance and control over bodies and populations, utilizing technology and data to regulate behavior and shape identities.
+**RELACION CON GEN Z:** Gen Z’s lives are deeply intertwined with digital surveillance. Social media platforms, data tracking, and algorithmic manipulation raise concerns about privacy, manipulation, and the potential for power structures to control behavior. The constant awareness of being observed shapes their online and offline actions.
+
+---
+
+**CONCEPTO:** Desocultamiento y Tecnicificación del Ser
+**AUTOR:** Heidegger (mentioned in context of Bauman’s work)
+**DEFINICION:** The process where the ‘hidden’ or veiled aspects of human existence – its finitude, vulnerability, and existential questions – are exposed and quantified through technology, reducing human experience to data.
+**RELACION CON GEN Z:** The digital age pressures Gen Z to constantly represent themselves, share data, and engage in activities that are visible and measurable. This technological exposure contributes to the feeling of having one's very being reduced to a set of metrics, and that one's existence is increasingly governed by external systems.
+
+---
+
+**CONCEPTO:** Erosión del Espacio Público
+**AUTOR:** Habermas (referenced in context of Bauman’s work)
+**DEFINICION:** The weakening of shared public spaces and the decline of deliberative democracy due to the rise of individualized and fragmented communication.
+**RELACION CON GEN Z:** Gen Z's primary social interactions happen online, often within echo chambers and algorithmic feeds. The decline of shared physical spaces and the difficulty of engaging in open, reasoned debate contribute to the erosion of the public sphere, making it more difficult for young people to develop a shared understanding of societal issues.
+
+---
+
