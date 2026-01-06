@@ -4,7 +4,7 @@ Documentación CNN
 1\. Introducción y Objetivos
 ----------------------------
 
-El presente proyecto tiene como objetivo el desarrollo de un sistema integral de **Visión Artificial** (Computer Vision) capaz de identificar y clasificar objetos en imágenes de manera automática. El sistema abarca el ciclo de vida completo de una aplicación de _Machine Learning_: desde la recolección automatizada de datos (dataset), pasando por el preprocesamiento y entrenamiento de una Red Neuronal Convolucional (CNN), hasta la implementación de una interfaz gráfica de usuario (GUI) para pruebas en tiempo real.
+El presente proyecto tiene como objetivo el desarrollo de un sistema integral de Visión Artificial capaz de identificar y clasificar objetos en imágenes de manera automática. El sistema abarca el ciclo de vida completo de una aplicación de _Machine Learning_: desde un dataset, pasando por el preprocesamiento y entrenamiento de una Red Neuronal Convolucional (CNN), hasta la implementación de una interfaz gráfica para pruebas en tiempo real.
 
 El núcleo del sistema se basa en librerías de alto rendimiento como **TensorFlow/Keras** para el modelado profundo, **Scikit-learn** para la gestión de datos y **Tkinter** para la interacción con el usuario final.
 
@@ -195,15 +195,8 @@ Para ejecutar este proyecto, se requiere el siguiente entorno de software:
 3.  En la ventana emergente, haga clic en **"ANALIZAR IMAGEN"**, seleccione un archivo y observe los resultados.
     
 
-6\. Conclusiones y Trabajo Futuro
+6\. Conclusion
 ---------------------------------
 
 El sistema implementado demuestra la eficacia de las Redes Neuronales Convolucionales para tareas de clasificación de imágenes. La inclusión de técnicas modernas como _Batch Normalization_, _Data Augmentation_ y _Callbacks_ inteligentes asegura que el modelo sea capaz de generalizar correctamente ante datos nuevos, evitando la simple memorización de las imágenes de entrenamiento.
 
-**Posibles mejoras futuras:**
-
-*   Implementar _Transfer Learning_ (usando MobileNet o VGG16) para mejorar la precisión con menos datos.
-    
-*   Añadir una matriz de confusión en el notebook para analizar en detalle qué clases confunde el modelo.
-    
-*   Migrar la interfaz gráfica a una aplicación web usando Flask o Streamlit.
